@@ -1,0 +1,7 @@
+.vscode/settings.json
+.vscode/extensions.json
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Project_1B_ Project_Template.ipynb
+event_datafile_new.csv
+event_data/*
