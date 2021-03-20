@@ -50,7 +50,7 @@ The whole dataset has been already uploaded to [Dropbox](https://www.dropbox.com
 
 <br></br>
 
-# For the Future
+# To Be Improved ...
 There are still some of improvements that can be made in near future. For example, 
 - When printng our the query results, we can define a function to enclose this process.
 - As this project was implemented in the classroom virtual envirnment, it is highly necessary to be tested in our local machine for better unstanding the whole process such as env setup, debugging and other playarounds.
